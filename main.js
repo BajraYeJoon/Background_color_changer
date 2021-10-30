@@ -1,6 +1,6 @@
 // Colors that will be visible when Triggered !!
 
-let colors = ["blue", "green", "red", "orange"];
+let colors = ["blue", "green", "red", "orange", "yellow"];
 
 //get Button
 let button = document.getElementById("button");
